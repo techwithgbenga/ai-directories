@@ -16,6 +16,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
   - [G](#g)
   - [H](#h)
   - [I](#i)
+  - [K](#k)
   - [L](#l)
   - [M](#m)
   - [N](#n)
@@ -131,6 +132,10 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [IA sur mesure](https://iasurmesure.com/) - A french directory
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+
+## K
+- [AI Directory Database](https://www.kariux.com/) - AI Tools and Agents directory, AI Course Directory, AI-Powered recommendations, AI Newsletter etc.
+- [AI Content Generator](https://www.app.kariux.com/) - AI Content Generator and Workflow Automation
 
 ## L
 
